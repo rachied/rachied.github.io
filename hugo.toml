@@ -65,7 +65,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Rachid"
   name = "Rachid"
-  description = "Developer based in Amsterdam. Move fast and fix things. Once in a blue moon, I write about those things."
+  description = "Now I am become dev, destroyer of uptime"
 
 # Allow to override webmanifest options
 [params.webmanifest]
